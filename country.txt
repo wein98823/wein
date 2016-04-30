@@ -1,0 +1,6 @@
+USD,TWD,CNY,JPY                 
+1.0,32.38,6.47,108.36                   
+Usa.png,Taiwan.png,China.png,Japan.png
+               
+                 
+                 
